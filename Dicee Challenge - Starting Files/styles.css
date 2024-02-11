@@ -1,0 +1,122 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: antiquewhite;
+}
+
+
+
+#nav
+{
+  background-color: aqua;
+  text-align: center;
+  font-size: larger;
+  display: inline-block;
+  width: 50%;
+  height: 15%;
+  position: absolute;
+  top: 2%;
+  left: 25%;
+
+}
+
+#main-body
+{
+  background-color: blue;
+  width: 60%;
+    height: 70%;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    border-style: initial;
+    border-color: grey;
+    box-shadow: 10px 5px grey;
+
+}
+
+#p-text
+{
+  background-color:red ;
+  font-size: large;
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  position: absolute;
+  height: 15%;
+  top: 40%;
+}
+
+
+#img
+{
+   width: 60%;
+   background-color: chocolate;
+   display: inline-block;
+   position: absolute;
+   height: 70%;
+   left: 20%;
+   top: 20%;
+}
+
+#p-image
+{
+  width: 80%;
+  height: 90%;
+  position: absolute;
+  right: 10%;
+  top: 5%;
+}
+
+#p-img
+{
+  background-color: antiquewhite;
+  width: 40%;
+  height: 60%;
+  position: absolute;
+  left: 5%;
+  top: 20%;
+}
+
+#c-img
+{
+  background-color: antiquewhite;
+  width: 40%;
+  height: 60%;
+  position: absolute;
+  right: 5%;
+  top: 20%;
+}
+
+#c-image
+{
+  width: 80%;
+  height: 90%;
+  position: absolute;
+  right: 10%;
+  top: 5%;
+
+}
+
+
+#c-text
+{
+  background-color:red ;
+  font-size: large;
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  position: absolute;
+  height: 15%;
+  top: 40%;
+  right: 0%;
+}
+
+
+#button
+{
+  background-color: red;
+  position: absolute;
+  width: 10%;
+  left: 45%;
+  bottom: 15%;
+}
